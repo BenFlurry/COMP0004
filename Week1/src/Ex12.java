@@ -14,10 +14,9 @@ public class Ex12 {
         return arr;
     }
 
-    public ArrayList<String> reverseArr(ArrayList<String> arr) {
+    public void reverseArr(ArrayList<String> arr) {
         for (int i = 0; i < arr.size(); i++) {
             String line = arr.get(i);
-            line.
 
         }
     }
