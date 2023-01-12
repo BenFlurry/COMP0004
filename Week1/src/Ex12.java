@@ -17,6 +17,7 @@ public class Ex12 {
     public void reverseArr(ArrayList<String> arr) {
         for (int i = 0; i < arr.size(); i++) {
             String line = arr.get(i);
+            System.out.println("test");
 
         }
     }
